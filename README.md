@@ -5,4 +5,3 @@ The HTML structure of the page is well-organized and easy to read. Semantic HTML
 
 
 
-
